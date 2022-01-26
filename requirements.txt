@@ -1,5 +1,5 @@
-pick==0.6.4
-pywin32==224
-psutil==5.6.1
-windows-curses==1.1
-progressbar2==3.39.3
+pick
+pywin32
+psutil
+windows-curses
+progressbar2
